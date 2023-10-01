@@ -1,0 +1,11 @@
+# \[TP 1.0] Governance Improvement to existing Proposal Framework
+
+|                   |                                                                                                                                                                                                                                                      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Authors**       | Andrea \| Ocean Protocol                                                                                                                                                                                                                             |
+| **Proposal Type** | Structural Proposal                                                                                                                                                                                                                                  |
+| **Voting Method** | Snapshot                                                                                                                                                                                                                                             |
+| **Status**        | Passed                                                                                                                                                                                                                                               |
+| **Discourse**     | [https://discord.com/channels/1102800896393498685/1150354631478738974](https://discord.com/channels/1102800896393498685/1150354631478738974)                                                                                                         |
+| **Details**       | [https://snapshot.org/#/vote.turbocouncil.eth/proposal/0x8659f4fe566322912ff20f1bf8a3fc1e58ac7a92da702dab1a79d53164e19a29](https://snapshot.org/#/vote.turbocouncil.eth/proposal/0x8659f4fe566322912ff20f1bf8a3fc1e58ac7a92da702dab1a79d53164e19a29) |
+
