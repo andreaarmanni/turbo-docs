@@ -10,7 +10,7 @@ $TURBO is a decentralized community powered by creativity and governed by AI. $T
 
 What sets $TURBO apart - other than being the very first AI-generated ERC20 and biggest meme experiment after $DOGE -  is our unique approach to governance.&#x20;
 
-The $TURBO community formed an AI Oracle council, that comprises of seven dedicated volunteers who are elected by our community members. This council acts as a bridge between our community and our TURBOAI Chatbot, which serves as our guiding intelligence.
+The $TURBO community formed an AI Oracle council, that comprises of seven dedicated volunteers who are elected by our community members. This council acts as a bridge between our community and our TURBOAI Chatbot, which serves as our guiding AI intelligence.
 
 The AI Oracle council holds the responsibility of prompting the AI Chatbot, allowing us to tap into the vast knowledge and insights it possesses. Through this collaboration, we can harness the power of AI to make informed decisions and guide our community's direction. By involving both human creativity and AI intelligence, we strive to create a dynamic and innovative environment that pushes boundaries and drives us toward our collective goals.
 
