@@ -1,27 +1,4 @@
----
-description: >-
-  Turbo DAO is the community-led foundation that governs the Turbo project. Here
-  you will find the knowledge base to understand and start contributing to the
-  development of Turbo.
-cover: .gitbook/assets/Screenshot 2023-08-09 at 16.52.33.png
-coverY: -190
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# 🚀 Welcome to Turbo DAO
+# 🚀 Welcome to Turbo Docs
 
 ## Official Contract Address
 
